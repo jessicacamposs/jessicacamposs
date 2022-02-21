@@ -13,5 +13,12 @@
   <img align="center" alt="jess-py" height="25" width="70" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="jess-java" height="25" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="jess-html5" height="25" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="right" alt="jess-gmail" height="25" width="75" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <img align="right" alt="jess-linkedin" height="25" width="75" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   
+##
+   
+<div>
+ 
+  <a href="jessicasantanacampos@gmail.com" target="_blank"><img align="center" alt="jess-gmail" height="25" width="75" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/jessicacamposs/" target="_blank"> <img align="center" alt="jess-linkedin" height="25" width="75" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ 
+</div>
