@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Jessica Campos e seja bem vindo ao meu perfil 🙂
 
  - 📚 Atualmente estudo: Sistema de informação, Cybersegurança
- - 💻 Aprendendo: Python
+ - 💻 Aprendendo: Python,Kotlin
  - 🤍 Pronomes: Ela/Dela
 
 <div align="center">
