@@ -11,7 +11,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="jess-py" height="32" width="32" src="https://i.ibb.co/2qgpxqD/python-icon-130849.png">
-  <img align="center" alt="jess-java" height="32" width="32" src="https://i.ibb.co/85C0jcW/kotlin-icon-130893.png">
+  <img align="center" alt="jess-kotllin" height="32" width="32" src="https://i.ibb.co/85C0jcW/kotlin-icon-130893.png">
   <img align="center" alt="jess-html5" height="32" width="32" src="https://i.ibb.co/ZxhdNY9/metrohtml5-metr-11428.png">
    
 ##
