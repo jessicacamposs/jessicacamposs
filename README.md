@@ -1,4 +1,4 @@
-## Olá! Eu sou a Jessica Campos e seja bem vindo ao meu perfil 🙂
+## Olá! Eu sou a Jessica Campos e seja bem vindo(a) ao meu perfil 🙂
 
  - 📚 Atualmente estudo: Sistema de informação, Cybersegurança
  - 💻 Aprendendo: Python,Kotlin
