@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Jessica Campos e seja bem vindo(a) ao meu perfil 🙂
 
- - 📚 Atualmente estudo: Sistema de informação, Cybersegurança
- - 💻 Aprendendo: Python,Swift
+ - 📚 Atualmente estudo: Sistema de informação, IOS Development
+ - 💻 Aprendendo: Swift,Python
  - 🤍 Pronomes: Ela/Dela
 
 <div align="center">
