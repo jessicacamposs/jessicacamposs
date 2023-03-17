@@ -1,8 +1,8 @@
-## Olá! Eu sou a Jessica Campos e seja bem vindo(a) ao meu perfil 🌟
+## Welcome to my profile 🌟
 
- - 📚 Atualmente estudo: Sistema de informação, Mobile Development
- - 💻 Aprendendo: Flutter / Dart
- - 🤍 Pronomes: Ela/Dela
+ - 📚 Studying: Information Systems, Mobile Development
+ - 💻 Languages: Flutter / Dart
+ - 🤍 Pronouns: She/Her
 
 <div align="center">
   <a href="https://github.com/jessicacamposs">
