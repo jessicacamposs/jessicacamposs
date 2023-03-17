@@ -1,8 +1,6 @@
 ## Welcome to my profile 🌟
 
- - 📚 Studying: Information Systems, Mobile Development
  - 💻 Languages: Flutter / Dart
- - 🤍 Pronouns: She/Her
 
 <div align="center">
   <a href="https://github.com/jessicacamposs">
