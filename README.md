@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Jessica Campos e seja bem vindo(a) ao meu perfil 🌟
 
- - 📚 Atualmente estudo: Sistema de informação, Android Development
- - 💻 Aprendendo: Kotlin
+ - 📚 Atualmente estudo: Sistema de informação, Mobile Development
+ - 💻 Aprendendo: Flutter / Dart
  - 🤍 Pronomes: Ela/Dela
 
 <div align="center">
