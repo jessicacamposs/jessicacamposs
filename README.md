@@ -1,6 +1,6 @@
 ## Welcome to my profile 🌟
 
- - 💻 Languages: Flutter / Dart
+ - 💻 Languages: Kotlin
 
 <div align="center">
   <a href="https://github.com/jessicacamposs">
